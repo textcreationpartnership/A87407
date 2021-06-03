@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ioyfull news from Portsmouth and the Jsle of Wight: wherein is declared, the resolution of the county of the inhabitants of the said towne, not to obey any command, or admit any forces into the said town, that should take part with the malignant party, against the King and Parliament. Likewise, the resolution of the inhabitants in the Isle of Wight, to use all possible means to prevent the landing of any men from France, or any other nation. With, a true declaration, how the Earle of Warwicke hath ordered his navie, for the preservation of future designes against the said towne. Ordered that this be printed and published. Io. Bro. Cler. Par.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87407</idno><idno type="EEBO-CITATION">99859068</idno>
+  <idno type="VID">111130</idno>
+  <idno type="EEBO-PROQUEST">2240868438</idno>
+  
+            <idno type="STC">Wing J1142</idno>
+            <idno type="STC">Thomason E109_25</idno>
+            <idno type="STC">ESTC R11560</idno>
+            <idno type="PROQUEST">99859068</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859068e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87407)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111130)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E109[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ioyfull news from Portsmouth and the Jsle of Wight: wherein is declared, the resolution of the county of the inhabitants of the said towne, not to obey any command, or admit any forces into the said town, that should take part with the malignant party, against the King and Parliament. Likewise, the resolution of the inhabitants in the Isle of Wight, to use all possible means to prevent the landing of any men from France, or any other nation. With, a true declaration, how the Earle of Warwicke hath ordered his navie, for the preservation of future designes against the said towne. Ordered that this be printed and published. Io. Bro. Cler. Par.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Iones,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>August 8. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Isle of Wight (England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Portsmouth (England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111130:1"/>
+            <pb facs="tcp:111130:1"/>
+            <p>Ioyfull News FROM Portsmouth And the Jsle of <hi>WIGHT:</hi> Wherein is Declared, the Resolution of the County of the inhabitants of the said Towne, not to obey any Command, or admit any forces into the said Town, that should take part with the Malignant Party, against the King and <hi>Parliament.</hi> Likewise, <hi>The Resolution of the inhabitants in the Isle of Wight, to use all possible meanes to prevent the Landing of any men from <hi>France,</hi> or any other Nation.</hi> WITH, a true Declaration, How the Earle of <hi>Warwicke</hi> hath Ordered his Navie, for the preservation of future designes against the said Towne.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>Ordered that this be Printed and Published.</p>
+                        <closer>
+                           <signed>Io. Bro. Cler. Par.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Printed for <hi>Iohn Iones. August</hi> 8, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="reports">
+            <pb facs="tcp:111130:2"/>
+            <pb facs="tcp:111130:2"/>
+            <div type="report">
+               <head>IOYFVLL NEWES FROM Portsmouth AND The Jsle of <hi>WIGHT:</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>He evill affected Malignan: Party having long time endeavoured to possesse them<g ref="char:EOLhyphen"/>selves of <hi>HVLL</hi> to which end they perswaded his Ma<g ref="char:EOLhyphen"/>jesty to Leavie an Armie; and besiege it, but after some time spent in a tedious Siege, heing repelled by the governour of of the said Towne, they finding that their desires could not arrive at their wished ef<g ref="char:EOLhyphen"/>fect,
+<pb facs="tcp:111130:3"/> they then began to cast about, striving to invent some new found Strattagem, and finding that none were so convenient for their purpose, as this ensuing one, they pre<g ref="char:EOLhyphen"/>sently put it in speedy execution; for know<g ref="char:EOLhyphen"/>ing <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat Collonell <hi>Goring</hi> had the com<g ref="char:EOLhyphen"/>mand of the Towne and Cinque-port of <hi>Portsmouth,</hi> and withall conceiving the great advantage that it would be to them if so be that they could obtaine rhey pre<g ref="char:EOLhyphen"/>sently endeavoured by theit power and por<g ref="char:EOLhyphen"/>licie, to winne the said Collonell <hi>Goring</hi> to their party, which as appeares ihey quickly effected; for the Towne and Fort (if report speake truth) is delivered to the King, by the consent of the said Collone<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l <hi>Goring.</hi>
+               </p>
+               <p>Neverthelesse the inhabitants of the town are resolved to stand firm in their obedience to the Parliament, and withall to oppose as far as in them lies, any forces that shall be brought in, that shalbe brought in, that shall take part with the malignant party against the king and Parliament. Likewise the in<g ref="char:EOLhyphen"/>habitants in the <hi>Isle of Wight</hi> doe declare themselves for the King and Parliament, wirhall promising to use their utmost endea<g ref="char:EOLhyphen"/>vours to prevent all designes that shalbe dis<g ref="char:EOLhyphen"/>cerned by them, and to stop the incoming of any forraigne forces, either from <hi>France</hi> or <hi>Spaine:</hi> withall promising the Earle of <hi>War<g ref="char:EOLhyphen"/>wick</hi>
+                  <pb facs="tcp:111130:3"/> to send him what supplies of fresh vi<g ref="char:EOLhyphen"/>ctuall he should be pleased to accept of,</p>
+               <p>Which pofer was accepted of by the said Earle with many thanks, desiring them to continue firm to the Parliament, this being the time of their chiefest necessity, likewise promising his navy should be for the most part imployed to keep the incroaching ene<g ref="char:EOLhyphen"/>my from them, it being thought that if the French have any designe for or against <hi>Eng<g ref="char:EOLhyphen"/>land</hi> (their friends being already possest of <hi>Portsmonth)</hi> that they will first land in the <hi>Isle of Wight.</hi>
+               </p>
+               <p>In the midest of these distractions and troubles, this is some comfort, that God dis<g ref="char:EOLhyphen"/>covers these plots and strattagems of those e<g ref="char:EOLhyphen"/>vill affected persons, that seekes to distroy both our Religion and Christian libertie, and doubtlesse did not God laugh them and their devises to scorne. So many plots and cunning devises as they Have, Had in agirati<g ref="char:EOLhyphen"/>on, and endevored to put in execution against the Parliament, could not by any humane Providence have been prevented. But God that fees the secreets of all hearts, hath dealt with us according to His mercyes, and not according to his Iustice, He hath delivered us from the snare of the Hunter. They that haue terrinized over the poore Israelites, are now themselves in worse case then Aegyptian
+<pb facs="tcp:111130:4"/> bondage, those that haue been drunke with the <hi>Babilonish</hi> whoore, and haue surfeited on the blood of the Saints, they are now forced to drinke of the water of repentance, and to goe home by weeping Crosse: Therefore let us take up the Crosse of Christ cheerefully, let us sight for our Religion valiantly, let us pray earnestly to the Lord for the pardon of our sinnes, and to pray earnestly for our King and Parliament, that God would vnite their hearts as one, that the Church may be purged of all Romish Superstition and Idolatry, and let us obey the King and Parliament willingly and let us with them take up this resolution.</p>
+               <list>
+                  <item>1 Let us with them resolve to liue and dy, in the defence of the true <hi>Protestant</hi> Reli<g ref="char:EOLhyphen"/>gion.</item>
+                  <item>2 To maintaine the Kings Royall Preroga<g ref="char:EOLhyphen"/>tiue.</item>
+                  <item>3 To defend and protect the priviledges of Parliament with the lawfull Authoritie of the same.</item>
+                  <item>4 To uphold the Libertie and Proprietie of the Subiect.</item>
+               </list>
+               <p>This the High Court of Parliament do declare to be their Resolution. And this ought to be the Resolution of all those that desire to se religion and the Gospell flourish A happy vnion betweene the King and Parliament and Religious peace, to Gods glory His Maiesties
+<pb facs="tcp:111130:4"/> Honour, and the comfort of all true hearted Subiects.</p>
+            </div>
+            <div type="report">
+               <head>NEWES FROM HVL.</head>
+               <p>
+                  <seg rend="decorInit">D</seg>Iving into the center of these plots which have threatned the downfall of our depressed Common-wealth, I addressed my selfe as well to impeach the clouded enemy, as infuse com<g ref="char:EOLhyphen"/>fortt to our sinking spirits, to point out the un<g ref="char:EOLhyphen"/>willing truth with stragling penmanship.</p>
+               <p>We are daily eye-witnesses of seditious Pamphlets, which (as false alarms) either ter<g ref="char:EOLhyphen"/>rifie us at first view, with conceited flashes, or else house us in dangerous security by their sil<g ref="char:EOLhyphen"/>ver speeches, so that muffled with such penny stuffe, wee cannot judge of affaires without truths enemy, Partiality.</p>
+               <p>Alwayes are we stifled with the unsavoury sent of unfortunate progresses, which drives us into a medley, as whose reeling faith knowes not which way to incline, whether to King or Parliament.</p>
+               <p>Tha honourable Assembly in Parliament is envied against by some, as if those Pillars had
+<pb facs="tcp:111130:5"/> Our Kingdome now is cut in twaine, two par<g ref="char:EOLhyphen"/>ties more indeed then enough, dwell among us: the one voluntiers stand to, the other Cavaliers, on whose forces depends the safety of our Com<g ref="char:EOLhyphen"/>mon-wealth, which I pray God may not turn to ruine, as they are thwarted, we may iustly feare the worst, for still ere they flurt each upon o<g ref="char:EOLhyphen"/>ther, not onely to the spoile of their persons, but the unresolved Realme. Some of their counter buffs we are struck with, which begin to totter with their stedfast fury. Many and sundry rimes have the Kings Cavaliers cast about for the sub<g ref="char:EOLhyphen"/>version of Hull, whose persisting exploits are in<g ref="char:EOLhyphen"/>interpreted in the language of Rebellion, how<g ref="char:EOLhyphen"/>ever they, by the benignity of Fortune, have be<g ref="char:EOLhyphen"/>have behaved thrmselves, or through cruelty of Fate, or knowledge is trusted with. Divers times have they in he eyes of the world, attempted Hull, but since they have not proecded Masters of their Art, they have canopied their plots with dark secresie. It was agitated amongst them that the onely way to crowne their actions was privately to creep into the heart of the town for the full possession whereof they with a mu<g ref="char:EOLhyphen"/>tuall consent intended intrinsically to maske them.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
